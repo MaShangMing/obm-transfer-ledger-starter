@@ -1,0 +1,14 @@
+{
+  "bulk": {
+    "quantity": 8,
+    "capacity": 20
+  },
+  "pick": {
+    "quantity": 1,
+    "capacity": 5
+  },
+  "returns": {
+    "quantity": 0,
+    "capacity": 12
+  }
+}

@@ -1,0 +1,3 @@
+{"ticket": "move-001", "moves": [{"from": "bulk", "to": "pick", "units": 2}], "guards": {"bulk": 0, "pick": 0}}
+{"ticket": "cycle-002", "moves": [{"from": "pick", "to": "returns", "units": 4}, {"from": "returns", "to": "pick", "units": 4}], "guards": {"pick": 1, "returns": 0}}
+{"ticket": "capacity-003", "moves": [{"from": "bulk", "to": "pick", "units": 6}], "guards": {"bulk": 1, "pick": 2}}
